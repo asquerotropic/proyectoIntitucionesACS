@@ -1,0 +1,44 @@
+/*BANNER*/
+.navbar{
+	margin-bottom: 0;
+	background: #4B8A08;
+}
+/*MENUS*/
+.navbar .navbar-header .navbar-brand{
+	color: #FFFFFF;
+}
+.nav .dropdown .dropdown-toogle{
+	color: #FFFFFF;
+}
+/*Tabla*/
+/*estilo tabla*/
+	table {
+	  border-collapse: collapse;
+	  width: auto;
+	  height: auto;
+	}
+	th, td {
+	  padding: 0.2rem;
+	  border: 1px solid #ccc;
+	  font-size: 13px;
+
+	}
+
+	.encabezado{
+	  padding: 0.5rem;
+	  background: green;
+	  color: white;
+	  text-align: center;
+	}
+
+
+/*PIE PAGINA*/
+.pie {
+	margin-bottom: 0;
+	background: #4B8A08;
+	color: #FFFFFF;
+}
+
+.pie a{
+	color: #FFFFFF;
+}
